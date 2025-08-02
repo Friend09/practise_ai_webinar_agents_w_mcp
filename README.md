@@ -1,0 +1,1 @@
+# README: Project practise_ai_webinar_agents_w_mcp
