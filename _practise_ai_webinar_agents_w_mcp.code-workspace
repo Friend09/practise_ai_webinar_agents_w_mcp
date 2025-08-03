@@ -2,7 +2,20 @@
 	"folders": [
 		{
 			"path": "."
-		},
+		}
 	],
-	"settings": {}
+	"settings": {
+		"mcp": {
+			"servers": {
+				"weather-mcp": {
+					"type": "stdio",
+					"command": "/Users/vamsi_mbmax/Developer/VAM_Documents/01_vam_PROJECTS/LEARNING/proj_AI/dev_proj_AI/practise_ai_webinar_agents_w_mcp/dev/weather_mcp/.venv/bin/python3",
+					"args": [
+						"/Users/vamsi_mbmax/Developer/VAM_Documents/01_vam_PROJECTS/LEARNING/proj_AI/dev_proj_AI/practise_ai_webinar_agents_w_mcp/dev/weather_mcp/server.py"
+					]
+				}
+			},
+			"inputs": []
+		}
+	}
 }
